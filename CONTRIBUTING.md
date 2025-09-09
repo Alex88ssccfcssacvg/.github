@@ -1,4 +1,4 @@
-# Contributing to Auth0 projects
+httpsttps Contributing to Auth0 projects
 
 A big welcome and thank you for considering contributing to the Auth0 open source projects. It’s people like you that make it a reality for users in our community.
 
